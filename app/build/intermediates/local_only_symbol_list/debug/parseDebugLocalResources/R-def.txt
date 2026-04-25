@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable btn_blue
+drawable btn_hack
+drawable btn_myth
+drawable btn_red
+drawable card_background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnBack
+id btnHack
+id btnMyth
+id btnNext
+id btnPlayAgain
+id btnReview
+id btnStart
+id tvFeedback
+id tvQuestion
+id tvQuestionCounter
+id tvScore
+id tvScoreFeedback
+id tvScoreMessage
+layout activity_main
+layout activity_question
+layout activity_review
+layout activity_score
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme._2ndAssignmentAhhApp
+style Theme._2ndAssignmentAhhApp
+xml backup_rules
+xml data_extraction_rules

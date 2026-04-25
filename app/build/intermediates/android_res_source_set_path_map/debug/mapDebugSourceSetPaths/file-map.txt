@@ -1,0 +1,7 @@
+com.example.a2ndassignmentahhapp-pngs-0 C:\Users\jorda\AndroidStudioProjects\2ndassignmentahhapp\app\build\generated\res\pngs\debug
+com.example.a2ndassignmentahhapp-updated_navigation_xml-1 C:\Users\jorda\AndroidStudioProjects\2ndassignmentahhapp\app\build\generated\updated_navigation_xml\debug
+com.example.a2ndassignmentahhapp-packageDebugResources-2 C:\Users\jorda\AndroidStudioProjects\2ndassignmentahhapp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.a2ndassignmentahhapp-packageDebugResources-3 C:\Users\jorda\AndroidStudioProjects\2ndassignmentahhapp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.a2ndassignmentahhapp-debug-4 C:\Users\jorda\AndroidStudioProjects\2ndassignmentahhapp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.a2ndassignmentahhapp-debug-5 C:\Users\jorda\AndroidStudioProjects\2ndassignmentahhapp\app\src\debug\res
+com.example.a2ndassignmentahhapp-main-6 C:\Users\jorda\AndroidStudioProjects\2ndassignmentahhapp\app\src\main\res

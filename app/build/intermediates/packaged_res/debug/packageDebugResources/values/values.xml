@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">2nd assignment ahh app</string>
+    <style name="Base.Theme._2ndAssignmentAhhApp" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+    <style name="Theme._2ndAssignmentAhhApp" parent="Base.Theme._2ndAssignmentAhhApp"/>
+</resources>
