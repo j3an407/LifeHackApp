@@ -70,7 +70,7 @@ The workflow ensures that the project is automatically built and tested every ti
 
 ### App Screenshots:
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2026-04-25 233451.png)
 *The Welcome Screen of the Life Hack or Urban Myth app showing the description and Let's Start button.*
 
 ![Screenshot 2](screenshots/screenshot2.png)
