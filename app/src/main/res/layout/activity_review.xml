@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FB8C00">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Review Answers"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:textColor="#4E342E"
+            android:gravity="center"
+            android:fontFamily="monospace"
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="24dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. Placing a wet spoon on a mosquito bite relieves the itch."
+            android:textSize="13sp"
+            android:textColor="#4E342E"
+            android:padding="16dp"
+            android:background="@drawable/card_background"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Answer: HACK (True) - The heat from the spoon breaks down the protein causing the itch!"
+            android:textSize="12sp"
+            android:textColor="#4E342E"
+            android:padding="12dp"
+            android:background="@drawable/card_background"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2. You swallow 8 spiders a year in your sleep."
+            android:textSize="13sp"
+            android:textColor="#4E342E"
+            android:padding="16dp"
+            android:background="@drawable/card_background"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Answer: MYTH (False) - Spiders avoid humans when they sleep. This is just an urban legend!"
+            android:textSize="12sp"
+            android:textColor="#4E342E"
+            android:padding="12dp"
+            android:background="@drawable/card_background"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3. Chewing gum takes 7 years to digest."
+            android:textSize="13sp"
+            android:textColor="#4E342E"
+            android:padding="16dp"
+            android:background="@drawable/card_background"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Answer: MYTH (False) - Gum base is not digested but it passes through your system normally!"
+            android:textSize="12sp"
+            android:textColor="#4E342E"
+            android:padding="12dp"
+            android:background="@drawable/card_background"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="4. Putting a wooden spoon over a boiling pot stops it from boiling over."
+            android:textSize="13sp"
+            android:textColor="#4E342E"
+            android:padding="16dp"
+            android:background="@drawable/card_background"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Answer: HACK (True) - The wooden spoon breaks the surface tension and stops the boil over!"
+            android:textSize="12sp"
+            android:textColor="#4E342E"
+            android:padding="12dp"
+            android:background="@drawable/card_background"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="5. You only use 10% of your brain."
+            android:textSize="13sp"
+            android:textColor="#4E342E"
+            android:padding="16dp"
+            android:background="@drawable/card_background"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Answer: MYTH (False) - Brain scans show we use virtually all of our brain every day!"
+            android:textSize="12sp"
+            android:textColor="#4E342E"
+            android:padding="12dp"
+            android:background="@drawable/card_background"
+            android:layout_marginBottom="24dp"/>
+
+        <Button
+            android:id="@+id/btnBack"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginBottom="24dp"
+            android:background="@drawable/btn_red"
+            android:backgroundTint="@null"
+            android:text="Back"
+            android:textColor="#E4E6FB"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+</ScrollView>
